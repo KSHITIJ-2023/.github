@@ -20,6 +20,8 @@ IIT Kharagpur
  ###  Current live sites :
 - Main website : https://ktj.in/#/
 - Relic hunter : https://relic.ktj.in/
+- Scanning portal : https://scan.ktj.in/ ( Organisation use )
+- Linking portal : https://link.ktj.in/ ( Organisation use )
 
  ###  Archives (Frontend Only) :
 - 2021 site : https://2021.ktj.in/#/
