@@ -17,7 +17,7 @@ IIT Kharagpur
 - CA portal : https://ca.ktj.in/
 - CA portal for admin: https://adm-ca.ktj.in/
 
- ###  Current live sites :
+ ###  Current sites :
 - Main website : https://ktj.in/#/
 - Relic hunter : https://relic.ktj.in/
 - Scanning portal : https://scan.ktj.in/ ( Organisation use )
